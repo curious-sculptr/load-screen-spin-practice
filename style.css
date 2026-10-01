@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    background: rgb(233, 233, 242)
+    background: rgb(233, 233, 242);
 }
 
 
@@ -37,7 +37,8 @@ p {
 .directions {
     font-weight: lighter;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font:rgb(37, 25, 25)
+    font:rgb(37, 25, 25);
+    background: rgb(233, 233, 242);
 }
 
 .loading {  
