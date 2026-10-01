@@ -67,7 +67,7 @@ p {
     border-left-color: #e5b003;  
     border-top-color: rgb(229, 150, 3); 
     border-bottom-color: rgb(229, 145, 3);  
-    border-radius: 50%;
+    border-radius: 25%;
     animation: rotate 600ms infinite linear;
 }
 
