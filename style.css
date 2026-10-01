@@ -12,6 +12,12 @@ p {
     font: rgb(35, 35, 39)
 }
 
+.directions {
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:rgb(37, 25, 25)
+}
+
 .loading {  
     max-width: 50%;  
     line-height: 1.4;  
@@ -34,7 +40,8 @@ p {
     display: inline-block;  
     border: 5px solid rgba(189,189,189 ,0.25);  
     border-left-color: #e5b003;  
-    border-top-color: rgb(229, 150, 3);  
+    border-top-color: rgb(229, 150, 3); 
+    border-bottom-color: rgb(229, 120, 3);  
     border-radius: 50%;
     animation: rotate 600ms infinite linear;
 }
