@@ -3,6 +3,13 @@ body {
     justify-content: center;  
     align-items: center;  
     min-height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    backgrouond: rgb(198, 198, 210)
+}
+
+p {
+    font: rgb(35, 35, 39)
 }
 
 .loading {  
@@ -26,8 +33,8 @@ body {
     height: 35px;  
     display: inline-block;  
     border: 5px solid rgba(189,189,189 ,0.25);  
-    border-left-color: rgba(3,155,229 ,1);  
-    border-top-color: rgba(3,155,229 ,1);  
+    border-left-color: rgb(229, 176, 3);  
+    border-top-color: rgb(229, 78, 3);  
     border-radius: 50%;
     animation: rotate 600ms infinite linear;
 }
