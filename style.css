@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    background: rgb(210, 210, 220)
+    background: rgb(233, 233, 242)
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 .directions {
     font-weight: lighter;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background:rgb(37, 25, 25)
+    font:rgb(37, 25, 25)
 }
 
 .loading {  
@@ -41,8 +41,8 @@ p {
     border: 5px solid rgba(189,189,189 ,0.25);  
     border-left-color: #e5b003;  
     border-top-color: rgb(229, 150, 3); 
-    border-bottom-color: rgb(229, 120, 3);  
-    border-radius: 50%;
+    border-bottom-color: rgb(229, 145, 3);  
+    border-radius: 50%
     animation: rotate 600ms infinite linear;
 }
 
