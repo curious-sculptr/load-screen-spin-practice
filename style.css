@@ -78,8 +78,11 @@ p {
 }
 
 footer {
-    display: block;  
+    display: block !important;
+    clear: both !important;
+    width: 100%;
     justify-content: center;  
     align-items: center; 
     padding: 20px;
+    margin-top: auto;
 }
